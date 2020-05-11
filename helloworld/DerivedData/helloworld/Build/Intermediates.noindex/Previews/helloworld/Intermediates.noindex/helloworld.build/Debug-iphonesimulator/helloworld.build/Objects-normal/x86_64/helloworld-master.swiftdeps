@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "9d84e5bac983c3012e4ff2534f668507"
+build_time: [1589162264, 703747000]
+inputs:
+  "/Users/crland_b/Desktop/helloworld/helloworld/AppDelegate.swift": [1589162065, 210477038]
+  "/Users/crland_b/Desktop/helloworld/helloworld/SceneDelegate.swift": [1589162065, 241142513]
+  "/Users/crland_b/Desktop/helloworld/helloworld/ContentView.swift": [1589162065, 340265614]
